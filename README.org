@@ -1,10 +1,10 @@
 * reader-interception
 
+This library allows you to intercept the Lisp reader and replace the
+Lisp syntax with your own.
 
-
-|---------+-------------------------------------------|
-| source  | git:https://gitlab.common-lisp.net/frideau/reader-interception.git   |
-| commit  |   |
-| systems | reader-interception |
-|---------+-------------------------------------------|
-
+|---------+--------------------------------------------------------------------|
+| source  | git:https://gitlab.common-lisp.net/frideau/reader-interception.git |
+| commit  | 0a56d85                                                            |
+| systems | reader-interception                                                |
+|---------+--------------------------------------------------------------------|
